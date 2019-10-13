@@ -1,0 +1,47 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #CB7E0A;
+	text-align: center;
+}
+.list{
+	text-align: center;
+}
+.heading{
+	font-size: 50px;
+}
+#inp{
+	height: 30px;
+	width: 250px;
+}
+#clicked{
+	height: 32px;
+	width: 100px;
+}
+ul{
+	height:350px;
+	width:400px;
+	margin:20px auto;
+	background: #D1D113;
+	overflow-y:scroll;
+	overflow-x: hidden;
+	list-style: none;
+
+}
+
+.liClass{
+	text-align: left; 
+	font-size: 50px
+	width: 325px;
+	background-color: rgba(238, 0, 0,.9);
+	margin:5px auto;
+	padding: 8px;
+	
+}
+.done {
+  text-decoration: line-through;
+  background-color: green;
+}
+.buttonClass{
+	float: right;
+}
